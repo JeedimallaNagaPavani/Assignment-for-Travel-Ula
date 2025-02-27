@@ -1,0 +1,36 @@
+.hero-container {
+    background: url('../assets/hero-image.jpg') center center/cover no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+  }
+  
+  .hero-container h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  .hero-btns {
+    margin-top: 20px;
+  }
+  
+  .hero-btns button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .hero-btns .btn-primary {
+    background-color: #ff9900;
+    color: white;
+  }
+  
+  .hero-btns .btn-primary:hover {
+    background-color: #cc7a00;
+  }
+  

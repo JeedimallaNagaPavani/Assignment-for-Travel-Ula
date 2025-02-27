@@ -1,0 +1,30 @@
+.terms {
+    padding: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  .terms h2 {
+    color: #222;
+    margin-bottom: 15px;
+  }
+  
+  .terms ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .terms li {
+    margin-bottom: 10px;
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .terms p {
+    font-size: 14px;
+    margin-top: 10px;
+    color: #555;
+  }
+  
